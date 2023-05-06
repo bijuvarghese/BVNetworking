@@ -73,7 +73,3 @@ public enum BVNetworkingError: Error {
     case emptyData
 }
 
-public class TCodeable: Codable {
-    
-}
-
